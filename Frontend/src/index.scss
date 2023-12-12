@@ -1,0 +1,34 @@
+//  body {
+//   margin: 0;
+//   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+//     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+//     sans-serif;
+//   -webkit-font-smoothing: antialiased;
+//   -moz-osx-font-smoothing: grayscale;
+// }
+
+// code {
+//   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+//     monospace;
+// } 
+@import 'bootstrap/dist/css/bootstrap.min.css';
+@import url("./styles/Home.scss");
+@import url("./styles/footer.scss");
+@import url("./add.scss");
+@import url("./styles/comtss.scss");
+
+@import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3&display=swap');
+
+*{
+  box-sizing: border-box;
+  // font-family: 'Roboto', sans-serif;
+ 
+  font-family: Source Sans Pro Web, Helvetica Neue, Helvetica, Roboto, Arial,sans-serif;
+}
+
+body{
+  margin: 0;/*website top corner */
+  font-family: Merriweather Web,Georgia,Cambria,Times New Roman,Times,serif;
+}

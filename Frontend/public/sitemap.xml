@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!--  created with sitemap generator https://octopus.do  -->
+
+    <url>
+        <loc>https://stagingicta.lankagate.gov.lk/</loc>
+        <lastmod>2023-12-11</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://stagingicta.lankagate.gov.lk/home</loc>
+        <lastmod>2023-12-11</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://stagingicta.lankagate.gov.lk/participate</loc>
+        <lastmod>2023-12-11</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://stagingicta.lankagate.gov.lk/events</loc>
+        <lastmod>2023-12-11</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+   
+    <url>
+        <loc>https://stagingicta.lankagate.gov.lk/ContentViews</loc>
+        <lastmod>2023-12-11</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+   
+   
+    <url>
+        <loc>https://stagingicta.lankagate.gov.lk/newspress</loc>
+        <lastmod>2023-12-11</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://stagingicta.lankagate.gov.lk/photogallery</loc>
+        <lastmod>2023-12-11</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+   
+    <url>
+        <loc>https://stagingicta.lankagate.gov.lk/about</loc>
+        <lastmod>2023-12-11</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://stagingicta.lankagate.gov.lk/faqs</loc>
+        <lastmod>2023-12-11</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://stagingicta.lankagate.gov.lk/usefullinks</loc>
+        <lastmod>2023-12-11</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://stagingicta.lankagate.gov.lk/gfeedback</loc>
+        <lastmod>2023-12-11</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://stagingicta.lankagate.gov.lk/contact-us</loc>
+        <lastmod>2023-12-11</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://stagingicta.lankagate.gov.lk/newsletter</loc>
+        <lastmod>2023-12-11</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+</urlset>
